@@ -1,0 +1,5 @@
+<Simulation version="4.2.5">
+   <XMLScript Type="XMLScript">Simulation/Chemokinesis.xml</XMLScript>
+   <PythonScript Type="PythonScript">Simulation/Chemokinesis.py</PythonScript>
+   <Resource Type="Python">Simulation/ChemokinesisSteppables.py</Resource>
+</Simulation>
